@@ -1,4 +1,4 @@
-# AB 11 : GPS et Map (Google Maps Activity)
+# LAB 11 : GPS et Map (Google Maps Activity)
 
 ## 1. Objectifs du Laboratoire
 Ce travail pratique vise à maîtriser les services de localisation d'Android et l'intégration du SDK Google Maps. Les points clés abordés sont :
